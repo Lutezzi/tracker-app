@@ -40,7 +40,7 @@
 
 1.  **Projeyi Klonlayın**
     ```bash
-    git clone https://github.com/kullaniciadiniz/calorie-tracker-app.git
+    git clone https://github.com/kullaniciadiniz/tracker-app.git
     cd nutriflow-tracker
     ```
 
